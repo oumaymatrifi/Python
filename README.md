@@ -1,5 +1,6 @@
 # Simple User API
-
+  [![FastAPI CI Pipeline](https://github.com/oumaymatrifi/Python/actions/workflows/ci.yml/badge.svg)](https://github.com/oumaymatrifi/Python/actions/workflows/ci.yml)
+  
 A FastAPI application demonstrating basic CRUD operations, logging, exception handling, and environment variables.
 
 ## How to run locally
@@ -8,3 +9,5 @@ A FastAPI application demonstrating basic CRUD operations, logging, exception ha
    ```bash
    python3 -m venv venv
    source venv/bin/activate  # On Windows use: venv\Scripts\activate
+
+ 
